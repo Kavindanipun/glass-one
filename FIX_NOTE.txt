@@ -1,0 +1,4 @@
+GlassGuard Hero — Mobile text clipping fix.
+Only mobile CSS layout was changed: feature details now have a dedicated
+174px text zone (155px on short screens) above the bottom mouse indicator.
+Desktop styles, all 60 frames, canvas loading and scroll behavior unchanged.
